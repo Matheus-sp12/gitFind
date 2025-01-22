@@ -15,4 +15,4 @@ Projeto desenvolvimento após termina o modulo de React da plataforma DIO.
 Nesse projetos consumimos a API do GitHub, onde vocÊ consegue pesquisar pelo usuario e ele
 aparece seu usuario e seus repositorios.
 
-<img src="../gitfind/src/assets/redmi.png"/>
+<img src="src/assets/redmi.png" alt="Redmi Image"/>
